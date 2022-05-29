@@ -1,0 +1,4 @@
+-R8C
+-nofloat
+-output="D:\ArnoRacer\ArnoRacer\Debug\ArnoRacer.lib"
+-O3
